@@ -1,0 +1,20 @@
+PingPong game made by LTS
+
+The objective is to prevent the ball from coming out of your side.
+
+The point index is 1.
+
+Mode:	>>VS AI
+	>>VS Friend
+As well you can be Left vs AI or Right vs AI
+
+The difficulty levelmis optional; the harder the level, the faster the ball goes and the smaller the bar
+Difficulty:	>>Easy
+		>>Normal
+		>>Hard
+		>>Very hard
+
+The player who begins can be chosen :Player1(Left) or Player2(Right)
+Player1(Left Player) controlled by "W" & "S", Player2(Right Player) controlled by "UP" & "DOWN"
+
+Have fun!

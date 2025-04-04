@@ -1,0 +1,10 @@
+Dynamic Game 2D - Personal License
+
+This project is a game developed by CLED for personal and training purposes. It is not a finished product, nor is it intended for commercial or public distribution.
+
+You may view the source code for learning or demonstration purposes (CV/portfolio).
+Any reproduction, modification, or reuse of the code or resources (images, sounds, etc.) is prohibited without the express permission of the author.
+
+This program is provided "as is," with no warranty of functionality or performance.
+
+©2023 CLED - All rights reserved

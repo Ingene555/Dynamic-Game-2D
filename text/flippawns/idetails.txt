@@ -1,0 +1,12 @@
+Flip Pawns game made by LTS
+
+The objective is to set all white pawns to black pawns.
+
+Every pawns around the one touche change color except the touched one.
+
+As well you can choose how many row or column will be used from 2 to 50.
+
+more they are, more it's difficult to win.
+
+
+Have fun!

@@ -1,0 +1,11 @@
+Gold Digger game made by LTS
+
+The objective is to catch the falling  golden eggs with the basket.
+
+As you catch more, the spped of fall and the number of eggs also increase.
+
+Click and move the basket to catch the falling golden eggs
+
+Double clik to pause and play the game.
+
+Have fun!

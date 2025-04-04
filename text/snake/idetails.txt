@@ -1,0 +1,11 @@
+Snake game made by LTS
+
+The snake is controlled by key "UP", "DOWN", "LEFT" and "RIGHT"
+
+The speed can be changed and there is two modes
+	-Mode normal: the snake can't go over the area
+	-Mode Illimited: the can appears to the opposite side of area
+
+
+
+Have fun!

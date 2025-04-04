@@ -1,0 +1,10 @@
+Tic-Tac_Toe game made by LTS
+
+A classical tic-tac-toe
+
+You can find more about the rules on https://www.exploratorium.edu/explore/puzzles/tictactoe
+
+It's also possible to choose who is the beginer and what mark you are going to use.
+
+
+Have fun!
