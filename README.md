@@ -23,7 +23,7 @@ Although it wasn’t easy, I realized that it’s definitely doable!
 - Several libraries were used (you'll see them in the code).
 - Some sound effects and music are from existing sources:
   - An old version of **Honkai Impact 3rd**
-  - **Lofi Girl**, **NCS**, and other royalty-free sources.
+  - **Lofi Girl**, **NCS**, and others.
 - The icons were **created by me in 2023 using Blender**.
 - **An executable file is also available** for anyone who wants to try the game on any computer without needing to install Python.
 
